@@ -1,0 +1,3 @@
+﻿  fraction.cpp
+d:\документы\универ\ппвис\labs\fraction\fraction\fraction.cpp(17): error C2065: b4cgx: необъявленный идентификатор
+d:\документы\универ\ппвис\labs\fraction\fraction\fraction.cpp(18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cout"
